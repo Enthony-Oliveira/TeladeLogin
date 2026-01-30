@@ -65,4 +65,3 @@ Refatoração para React
 ### Preview
   <img width="1365" height="617" alt="image" src="https://github.com/user-attachments/assets/543c0645-3c2a-4e30-bdad-e6c46b310af3" />
   <img width="1366" height="615" alt="image" src="https://github.com/user-attachments/assets/9a6e2444-4a04-4d84-81db-609ee728f57d" />
-###
